@@ -1,2 +1,1 @@
-# contract
-contract-softwear
+npx create-next-app@latest .
